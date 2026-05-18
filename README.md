@@ -67,4 +67,3 @@ python lane_detection.py --input data/road_video.mp4
 
 ## 📝 License
 This project is based on the research published in Electronics (MDPI). Please refer to the original paper’s license for usage rights.
-```
